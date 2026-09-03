@@ -1,0 +1,36 @@
+{
+  "name": "@synara/i18n",
+  "version": "0.0.0-alpha.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./runtime": {
+      "types": "./src/runtime.ts",
+      "import": "./src/runtime.ts"
+    },
+    "./locales": {
+      "types": "./src/locales.ts",
+      "import": "./src/locales.ts"
+    },
+    "./policy": {
+      "types": "./src/policy.ts",
+      "import": "./src/policy.ts"
+    },
+    "./babel": {
+      "types": "./src/babelPlugin.ts",
+      "import": "./src/babelPlugin.ts"
+    }
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --passWithNoTests",
+    "extract": "bun src/extract.ts"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@types/babel__core": "^7.20.5",
+    "@types/node": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  }
+}

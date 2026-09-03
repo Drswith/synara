@@ -10,6 +10,7 @@ import { promisify } from "node:util";
 import tailwindcss from "@tailwindcss/vite";
 import react, { reactCompilerPreset } from "@vitejs/plugin-react";
 import babel from "@rolldown/plugin-babel";
+import synaraI18n from "@synara/i18n/babel";
 import { tanstackRouter } from "@tanstack/router-plugin/vite";
 import { defineConfig, type Plugin } from "vite";
 import pkg from "./package.json" with { type: "json" };
@@ -195,6 +196,10 @@ export default defineConfig({
       // whereas the previous version of the plugin parsed all files with a .ts extension.
       // This is causing our packages/ directory to fail to parse, as they are not relative to the CWD.
       parserOpts: { plugins: ["typescript", "jsx"] },
+      // Rewrites user-facing string literals into catalogue lookups. Keeping it here rather
+      // than in component source is what lets this fork keep merging upstream cleanly; see
+      // docs/i18n.md. Set SYNARA_I18N=off to build the untranslated upstream bundle.
+      plugins: [[synaraI18n, { enabled: process.env.SYNARA_I18N !== "off" }]],
       presets: [reactCompilerPreset()],
     }),
     tailwindcss(),

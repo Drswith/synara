@@ -1,0 +1,1087 @@
+[
+  {
+    "file": "apps/web/src/components/AntigravityIcon.tsx",
+    "line": 132,
+    "snippet": "effect1_foregroundBlur_{}"
+  },
+  {
+    "file": "apps/web/src/components/BranchToolbar.tsx",
+    "line": 221,
+    "snippet": "{}: {}. Click to change permissions."
+  },
+  {
+    "file": "apps/web/src/components/BranchToolbarBranchSelector.tsx",
+    "line": 903,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/BranchToolbarBranchSelector.tsx",
+    "line": 914,
+    "snippet": "translateY({}px)"
+  },
+  {
+    "file": "apps/web/src/components/BranchToolbarBranchSelector.tsx",
+    "line": 949,
+    "snippet": "Create and switch to a new branch from {}."
+  },
+  {
+    "file": "apps/web/src/components/ChatMarkdown.tsx",
+    "line": 1585,
+    "snippet": "chat-markdown {}w-full min-w-0 {} text-foreground"
+  },
+  {
+    "file": "apps/web/src/components/ChatMarkdownFind.tsx",
+    "line": 81,
+    "snippet": "text:{}"
+  },
+  {
+    "file": "apps/web/src/components/ChatView.tsx",
+    "line": 11826,
+    "snippet": "{} mode — click to return to normal build mode"
+  },
+  {
+    "file": "apps/web/src/components/ChatView.tsx",
+    "line": 12515,
+    "snippet": "{}-workspace"
+  },
+  {
+    "file": "apps/web/src/components/DevicePanel.tsx",
+    "line": 733,
+    "snippet": "{} screen"
+  },
+  {
+    "file": "apps/web/src/components/DiffPanel.tsx",
+    "line": 1258,
+    "snippet": "Loading {} diff..."
+  },
+  {
+    "file": "apps/web/src/components/DiffPanelFileList.tsx",
+    "line": 162,
+    "snippet": "Preview of {}"
+  },
+  {
+    "file": "apps/web/src/components/EditorWorkspaceView.tsx",
+    "line": 675,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/PluginLibrary.tsx",
+    "line": 178,
+    "snippet": "0 0 0 0.5px {}25"
+  },
+  {
+    "file": "apps/web/src/components/PluginLibrary.tsx",
+    "line": 196,
+    "snippet": "0 0 0 0.5px {}25"
+  },
+  {
+    "file": "apps/web/src/components/PluginLibrary.tsx",
+    "line": 220,
+    "snippet": "0 0 0 0.5px hsl({} 40% 30% / 0.35)"
+  },
+  {
+    "file": "apps/web/src/components/PluginLibrary.tsx",
+    "line": 646,
+    "snippet": "Plugins unavailable for {}"
+  },
+  {
+    "file": "apps/web/src/components/PluginLibrary.tsx",
+    "line": 681,
+    "snippet": "Skills unavailable for {}"
+  },
+  {
+    "file": "apps/web/src/components/ProjectScriptsControl.tsx",
+    "line": 246,
+    "snippet": "Run {}"
+  },
+  {
+    "file": "apps/web/src/components/ProjectScriptsControl.tsx",
+    "line": 247,
+    "snippet": "Run {}"
+  },
+  {
+    "file": "apps/web/src/components/ProjectScriptsControl.tsx",
+    "line": 286,
+    "snippet": "{} (setup)"
+  },
+  {
+    "file": "apps/web/src/components/ProjectScriptsControl.tsx",
+    "line": 299,
+    "snippet": "Edit {}"
+  },
+  {
+    "file": "apps/web/src/components/ProjectScriptsControl.tsx",
+    "line": 389,
+    "snippet": "relative flex flex-col items-center gap-2 rounded-md border px-2 py-2 text-xs {}"
+  },
+  {
+    "file": "apps/web/src/components/ProjectSourceSegmentedPicker.tsx",
+    "line": 83,
+    "snippet": "translateX({})"
+  },
+  {
+    "file": "apps/web/src/components/ProviderUsageLimitRows.tsx",
+    "line": 78,
+    "snippet": "Usage pace: {}"
+  },
+  {
+    "file": "apps/web/src/components/RecentViewSwitcher.tsx",
+    "line": 102,
+    "snippet": "recent-view-switcher-{}"
+  },
+  {
+    "file": "apps/web/src/components/RecentViewSwitcher.tsx",
+    "line": 111,
+    "snippet": "recent-view-switcher-{}"
+  },
+  {
+    "file": "apps/web/src/components/ReviewFileTreePanel.tsx",
+    "line": 101,
+    "snippet": "dir:{}"
+  },
+  {
+    "file": "apps/web/src/components/SettingsSidebarNav.tsx",
+    "line": 173,
+    "snippet": "settings-nav-{}"
+  },
+  {
+    "file": "apps/web/src/components/SettingsSidebarNav.tsx",
+    "line": 177,
+    "snippet": "settings-nav-{}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 851,
+    "snippet": "Version {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 1095,
+    "snippet": "Hide {} from the sidebar"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 1095,
+    "snippet": "Show {} in the sidebar"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 1109,
+    "snippet": "Reorder {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 1148,
+    "snippet": "group/menu-item relative rounded-md {} {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 1263,
+    "snippet": "Activity view{}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 4989,
+    "snippet": "Project status: {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 5032,
+    "snippet": "View pull requests for {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 5048,
+    "snippet": "Create new terminal thread in {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 5051,
+    "snippet": "New terminal thread ({})"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 5068,
+    "snippet": "Create new thread in {}"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 5070,
+    "snippet": "New thread ({})"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 6000,
+    "snippet": "Search ({})"
+  },
+  {
+    "file": "apps/web/src/components/Sidebar.tsx",
+    "line": 6355,
+    "snippet": "New chat ({})"
+  },
+  {
+    "file": "apps/web/src/components/SidebarActivityView.tsx",
+    "line": 178,
+    "snippet": "activity-thread-{}"
+  },
+  {
+    "file": "apps/web/src/components/SidebarMetaChip.tsx",
+    "line": 52,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/SidebarMetaChip.tsx",
+    "line": 59,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/SidebarRowHoverActions.tsx",
+    "line": 18,
+    "snippet": "thread-hover-actions-{}"
+  },
+  {
+    "file": "apps/web/src/components/SidebarSearchPalette.tsx",
+    "line": 754,
+    "snippet": "{} highlighted folder ({} Enter)"
+  },
+  {
+    "file": "apps/web/src/components/SidebarSearchPalette.tsx",
+    "line": 755,
+    "snippet": "{} (Enter)"
+  },
+  {
+    "file": "apps/web/src/components/SidebarSearchPalette.tsx",
+    "line": 761,
+    "snippet": "{} Enter"
+  },
+  {
+    "file": "apps/web/src/components/SidebarSearchPalette.tsx",
+    "line": 791,
+    "snippet": "folder:{}"
+  },
+  {
+    "file": "apps/web/src/components/SidebarSearchPalette.tsx",
+    "line": 816,
+    "snippet": "action:{}"
+  },
+  {
+    "file": "apps/web/src/components/SidebarSearchPalette.tsx",
+    "line": 1114,
+    "snippet": "Enter to open · {}+Enter to add"
+  },
+  {
+    "file": "apps/web/src/components/SidebarThreadRowContent.tsx",
+    "line": 210,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/SidebarThreadRowContent.tsx",
+    "line": 242,
+    "snippet": "thread-title-{}"
+  },
+  {
+    "file": "apps/web/src/components/SpaceProjectPickerDialog.tsx",
+    "line": 222,
+    "snippet": "Move {} project{}"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 160,
+    "snippet": "{} code theme"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 189,
+    "snippet": "{} accent color"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 205,
+    "snippet": "{} background color"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 221,
+    "snippet": "{} foreground color"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 239,
+    "snippet": "{} UI font"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 250,
+    "snippet": "{} code font"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 263,
+    "snippet": "{} translucent sidebar"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 271,
+    "snippet": "{} contrast"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 393,
+    "snippet": "Reset {}"
+  },
+  {
+    "file": "apps/web/src/components/ThemePackEditor.tsx",
+    "line": 450,
+    "snippet": "{} hex value"
+  },
+  {
+    "file": "apps/web/src/components/ThreadArchiveActionButton.tsx",
+    "line": 33,
+    "snippet": "thread-archive-{}"
+  },
+  {
+    "file": "apps/web/src/components/ThreadHoverCardContent.tsx",
+    "line": 93,
+    "snippet": "flex w-full flex-col gap-0 {}"
+  },
+  {
+    "file": "apps/web/src/components/ThreadTerminalDrawer.tsx",
+    "line": 672,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceFilePreview.tsx",
+    "line": 280,
+    "snippet": "{}rem"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceFilePreview.tsx",
+    "line": 916,
+    "snippet": "Edit {}"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceFilePreview.tsx",
+    "line": 976,
+    "snippet": "Comment on line {}"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceSearchPalette.tsx",
+    "line": 203,
+    "snippet": "items-center {}"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceSearchPalette.tsx",
+    "line": 234,
+    "snippet": "snippet:{}:{}"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceSearchPalette.tsx",
+    "line": 242,
+    "snippet": "mt-0.5 {}"
+  },
+  {
+    "file": "apps/web/src/components/WorkspaceSearchPalette.tsx",
+    "line": 254,
+    "snippet": "truncate font-mono text-[11px] leading-4 {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/AutomationCreatedCard.tsx",
+    "line": 62,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/AutomationCreatedCard.tsx",
+    "line": 70,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/BrowserAnnotationChip.tsx",
+    "line": 40,
+    "snippet": "Browser annotation {}: {}, {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/BrowserAnnotationChip.tsx",
+    "line": 69,
+    "snippet": "Browser annotation {}: {}, {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/BrowserAnnotationStrip.tsx",
+    "line": 63,
+    "snippet": "Show {} more browser {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ChatHeader.tsx",
+    "line": 455,
+    "snippet": "Chat {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ChatHeader.tsx",
+    "line": 464,
+    "snippet": "Close {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ChatHeader.tsx",
+    "line": 658,
+    "snippet": "Toggle diff panel ({})"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerBranchMismatchBanner.tsx",
+    "line": 38,
+    "snippet": "Thread branch: {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerBranchMismatchBanner.tsx",
+    "line": 45,
+    "snippet": "Current branch: {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerImageAttachmentChip.tsx",
+    "line": 56,
+    "snippet": "Preview AppSnap from {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerImageAttachmentChip.tsx",
+    "line": 108,
+    "snippet": "Remove AppSnap from {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerImageAttachmentChip.tsx",
+    "line": 121,
+    "snippet": "Preview {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerImageAttachmentChip.tsx",
+    "line": 149,
+    "snippet": "Remove {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerLocalDirectoryMenu.tsx",
+    "line": 455,
+    "snippet": "dir:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerLocalDirectoryMenu.tsx",
+    "line": 499,
+    "snippet": "search:{}:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerLocalDirectoryMenu.tsx",
+    "line": 601,
+    "snippet": "search:{}:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerSubagentStrip.tsx",
+    "line": 86,
+    "snippet": "{} of {} {} running"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerVoiceRecorderBar.tsx",
+    "line": 60,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerVoiceRecorderBar.tsx",
+    "line": 77,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/ComposerVoiceRecorderBar.tsx",
+    "line": 78,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/EditedFileRow.tsx",
+    "line": 63,
+    "snippet": "Review changes to {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/EditedFileRow.tsx",
+    "line": 100,
+    "snippet": "Open {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/EditedFileRow.tsx",
+    "line": 101,
+    "snippet": "Open {} options"
+  },
+  {
+    "file": "apps/web/src/components/chat/FileAttachmentChip.tsx",
+    "line": 134,
+    "snippet": "Remove {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/FileAttachmentChip.tsx",
+    "line": 176,
+    "snippet": "Remove {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/FloatingBrowserPanel.tsx",
+    "line": 286,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/FloatingBrowserPanel.tsx",
+    "line": 295,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/FloatingBrowserPanel.tsx",
+    "line": 296,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/FloatingBrowserPanel.tsx",
+    "line": 297,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/FloatingBrowserPanel.tsx",
+    "line": 298,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/ForkSourceDivider.tsx",
+    "line": 36,
+    "snippet": "Open source chat {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessageCopyButton.tsx",
+    "line": 47,
+    "snippet": "{} text-success"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessageTrail.tsx",
+    "line": 561,
+    "snippet": "Message {}: {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1475,
+    "snippet": "work-row:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1510,
+    "snippet": "tool-summary:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1532,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1535,
+    "snippet": "Show {} more"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1561,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1564,
+    "snippet": "Show {} more"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 1635,
+    "snippet": "fallback-selection-{}-{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2047,
+    "snippet": "inline-tool-summary:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2069,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2074,
+    "snippet": "+{} more tool calls"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2096,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2101,
+    "snippet": "+{} more tool calls"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2179,
+    "snippet": "turn:{}:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2241,
+    "snippet": "Worked for {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2289,
+    "snippet": "inline-summary-edit:{}:{}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2355,
+    "snippet": "Edited {} {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2481,
+    "snippet": "Show {} more {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2546,
+    "snippet": "Goal achieved in {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 2593,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3147,
+    "snippet": "Preview {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3223,
+    "snippet": "{}:text"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3226,
+    "snippet": "{}:find"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3242,
+    "snippet": "{}:skill"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3250,
+    "snippet": "{}:skill"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3258,
+    "snippet": "{}:mention"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3267,
+    "snippet": "{}:agent"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3270,
+    "snippet": "{}:link"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3273,
+    "snippet": "{}:command"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3459,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/MessagesTimeline.tsx",
+    "line": 3476,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/PastedTextChip.tsx",
+    "line": 53,
+    "snippet": "Remove pasted text ({})"
+  },
+  {
+    "file": "apps/web/src/components/chat/ProviderModelOptionGroupList.tsx",
+    "line": 85,
+    "snippet": "Remove {} from favourites"
+  },
+  {
+    "file": "apps/web/src/components/chat/ProviderModelOptionGroupList.tsx",
+    "line": 86,
+    "snippet": "Add {} to favourites"
+  },
+  {
+    "file": "apps/web/src/components/chat/RightDock.tsx",
+    "line": 111,
+    "snippet": "Open {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/RightDock.tsx",
+    "line": 138,
+    "snippet": "Close {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/SplitChatSurface.tsx",
+    "line": 207,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/ThreadFindBar.tsx",
+    "line": 233,
+    "snippet": "{} / {} results"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 707,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 721,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 736,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 816,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 827,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 834,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/TimelineWorkEntryRow.tsx",
+    "line": 922,
+    "snippet": "{} characters"
+  },
+  {
+    "file": "apps/web/src/components/chat/ToolCallGroupSummaryRow.tsx",
+    "line": 58,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/chat/environment/EnvironmentAutomationsSection.tsx",
+    "line": 57,
+    "snippet": "Open automation {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/environment/EnvironmentEditorSection.tsx",
+    "line": 79,
+    "snippet": "Open in {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/environment/EnvironmentPullRequestSection.tsx",
+    "line": 370,
+    "snippet": "Conflicts with {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/environment/EnvironmentPullRequestSection.tsx",
+    "line": 497,
+    "snippet": "Couldn't load review comments: {}"
+  },
+  {
+    "file": "apps/web/src/components/chat/environment/EnvironmentSidechatsSection.tsx",
+    "line": 56,
+    "snippet": "Open side chat {}{}"
+  },
+  {
+    "file": "apps/web/src/components/kanban/KanbanOverview.tsx",
+    "line": 59,
+    "snippet": "New task in {}"
+  },
+  {
+    "file": "apps/web/src/components/kanban/KanbanOverview.tsx",
+    "line": 60,
+    "snippet": "New task in {}"
+  },
+  {
+    "file": "apps/web/src/components/pdf/PdfPageView.tsx",
+    "line": 98,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/pdf/PdfPageView.tsx",
+    "line": 98,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/pdf/PdfPageView.tsx",
+    "line": 103,
+    "snippet": "Page {}"
+  },
+  {
+    "file": "apps/web/src/components/pdf/PdfPageView.tsx",
+    "line": 164,
+    "snippet": "Go to page {}"
+  },
+  {
+    "file": "apps/web/src/components/profile/ActivityHeatmap.tsx",
+    "line": 212,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/profile/EditProfileDialog.tsx",
+    "line": 194,
+    "snippet": "Use {}"
+  },
+  {
+    "file": "apps/web/src/components/profile/ShareCard.tsx",
+    "line": 103,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/profile/ShareCard.tsx",
+    "line": 103,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/profile/ShareDialog.tsx",
+    "line": 268,
+    "snippet": "Share to {}"
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestDetailPanel.tsx",
+    "line": 623,
+    "snippet": "Merge {} {}?"
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestDetailPanel.tsx",
+    "line": 630,
+    "snippet": "This will atomically merge every open pull request through #{} into {} using {}.{}"
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestDetailPanel.tsx",
+    "line": 635,
+    "snippet": "This will merge #{} using {}."
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestDetailPanel.tsx",
+    "line": 636,
+    "snippet": "This will close #{} without merging it."
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestList.tsx",
+    "line": 60,
+    "snippet": "group:{}"
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestMetaLine.tsx",
+    "line": 40,
+    "snippet": "separator:{}"
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestStackPopover.tsx",
+    "line": 50,
+    "snippet": "View stack {}, pull request {} of {}"
+  },
+  {
+    "file": "apps/web/src/components/pullRequest/PullRequestStackPopover.tsx",
+    "line": 51,
+    "snippet": "Stack #{}"
+  },
+  {
+    "file": "apps/web/src/components/settings/AdvancedSettingsPanel.tsx",
+    "line": 144,
+    "snippet": "Authenticated as {}."
+  },
+  {
+    "file": "apps/web/src/components/settings/ConversationStorageSettingsPanels.tsx",
+    "line": 411,
+    "snippet": "Archived {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/ExternalMcpSettingsPanel.tsx",
+    "line": 367,
+    "snippet": "Connect {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/ExternalMcpSettingsPanel.tsx",
+    "line": 400,
+    "snippet": "Last connected {}."
+  },
+  {
+    "file": "apps/web/src/components/settings/ExternalMcpSettingsPanel.tsx",
+    "line": 401,
+    "snippet": "Connection expires {}."
+  },
+  {
+    "file": "apps/web/src/components/settings/ExternalMcpSettingsPanel.tsx",
+    "line": 440,
+    "snippet": "Pairing code expires {}."
+  },
+  {
+    "file": "apps/web/src/components/settings/KeyboardShortcutsSettingsPanel.tsx",
+    "line": 294,
+    "snippet": "Shortcut for {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/KeyboardShortcutsSettingsPanel.tsx",
+    "line": 302,
+    "snippet": "Condition for {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/ModelsSettingsPanel.tsx",
+    "line": 225,
+    "snippet": "Remove {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/ModelsSettingsPanel.tsx",
+    "line": 379,
+    "snippet": "Show more ({})"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 477,
+    "snippet": "Reorder {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 497,
+    "snippet": "Checking {} CLI availability"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 499,
+    "snippet": "Show {} in the provider picker"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 500,
+    "snippet": "{} CLI is not installed"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 572,
+    "snippet": "Run {}"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 965,
+    "snippet": "{} of {} enabled"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 1028,
+    "snippet": "{} of {} installed shown"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 1030,
+    "snippet": "{} installed · custom order"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 1031,
+    "snippet": "{} installed"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 1117,
+    "snippet": "{} {} available"
+  },
+  {
+    "file": "apps/web/src/components/settings/ProvidersSettingsPanel.tsx",
+    "line": 1169,
+    "snippet": "{} {} available"
+  },
+  {
+    "file": "apps/web/src/components/settings/SettingControls.tsx",
+    "line": 36,
+    "snippet": "Reset {} to default"
+  },
+  {
+    "file": "apps/web/src/components/settings/SkillsSettingsPanel.tsx",
+    "line": 115,
+    "snippet": "{} of {} skill{} enabled"
+  },
+  {
+    "file": "apps/web/src/components/settings/SkillsSettingsPanel.tsx",
+    "line": 181,
+    "snippet": "Enable the {} skill"
+  },
+  {
+    "file": "apps/web/src/components/terminal/TerminalActivityIndicator.tsx",
+    "line": 49,
+    "snippet": "{}ms"
+  },
+  {
+    "file": "apps/web/src/components/terminal/TerminalChrome.tsx",
+    "line": 86,
+    "snippet": "Close {}"
+  },
+  {
+    "file": "apps/web/src/components/terminal/TerminalChrome.tsx",
+    "line": 167,
+    "snippet": "Terminal {}"
+  },
+  {
+    "file": "apps/web/src/components/terminal/TerminalChrome.tsx",
+    "line": 180,
+    "snippet": "Close {}{}"
+  },
+  {
+    "file": "apps/web/src/components/terminal/TerminalChrome.tsx",
+    "line": 186,
+    "snippet": "group flex items-center gap-1 px-1 py-0.5 text-[11px] {}"
+  },
+  {
+    "file": "apps/web/src/components/terminal/TerminalViewportPane.tsx",
+    "line": 149,
+    "snippet": "Close {}"
+  },
+  {
+    "file": "apps/web/src/components/ui/toast.tsx",
+    "line": 563,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/components/ui/toast.tsx",
+    "line": 642,
+    "snippet": "{}px"
+  },
+  {
+    "file": "apps/web/src/routes/_chat.automations.$automationId.tsx",
+    "line": 1049,
+    "snippet": "Switch to {}"
+  },
+  {
+    "file": "apps/web/src/routes/_chat.automations.$automationId.tsx",
+    "line": 1067,
+    "snippet": "The automation stops writing to {}; the thread itself is kept."
+  },
+  {
+    "file": "apps/web/src/routes/_chat.automations.$automationId.tsx",
+    "line": 1072,
+    "snippet": "Switch to {}"
+  },
+  {
+    "file": "apps/web/src/whatsNew/WhatsNewPopoutCard.tsx",
+    "line": 111,
+    "snippet": "Open What's new in v{}"
+  },
+  {
+    "file": "apps/web/src/whatsNew/WhatsNewPopoutCard.tsx",
+    "line": 171,
+    "snippet": "What's new in v{}"
+  }
+]

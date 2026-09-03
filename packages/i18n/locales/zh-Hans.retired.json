@@ -1,0 +1,20 @@
+{
+  "Awaiting Input": "等待输入",
+  "Merge status pending": "合并状态待定",
+  "Mergeable with failing checks": "可合并，但存在失败的检查",
+  "PR closed": "PR 已关闭",
+  "PR draft": "PR 草稿",
+  "PR has conflicts": "PR 存在冲突",
+  "PR merged": "PR 已合并",
+  "PR open": "PR 已开启",
+  "Pending Approval": "等待审批",
+  "Plan Ready": "计划已就绪",
+  "Ready to merge": "可以合并",
+  "Running": "运行中",
+  "Stack merged": "栈已合并",
+  "Stack needs attention": "栈需要处理",
+  "Terminals are lighter": "终端更轻量",
+  "Working": "工作中",
+  "files": "个文件",
+  "project": "项目"
+}

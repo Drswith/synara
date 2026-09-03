@@ -25,6 +25,9 @@ if (isElectron) {
   }
 }
 
+// The display language is already resolved: bootstrap.ts awaits initLocale before it
+// imports this module, so every literal above — including the module-scope tables this
+// file pulls in transitively — was translated as it evaluated.
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <RouterProvider router={router} />

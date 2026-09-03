@@ -189,7 +189,20 @@ export function settingRowAnchorId(title: string): string {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
-  return `setting-${slug}`;
+  // A translated title can slug to nothing (every character is stripped as non-ASCII), which
+  // would give every row in a section the same id and break deep links. Fall back to a hash
+  // of the title: still derived only from the title, so the row and the search index agree.
+  return `setting-${slug === "" ? hashTitle(title) : slug}`;
+}
+
+/** FNV-1a: short, stable, and dependency-free — this is an id, not a security boundary. */
+function hashTitle(title: string): string {
+  let hash = 0x811c9dc5;
+  for (let index = 0; index < title.length; index += 1) {
+    hash ^= title.charCodeAt(index);
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return (hash >>> 0).toString(36);
 }
 
 export function normalizeSettingsSection(value: unknown): SettingsSectionId {

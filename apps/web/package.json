@@ -29,6 +29,7 @@
     "@lexical/react": "^0.41.0",
     "@pierre/diffs": "^1.2.12",
     "@synara/contracts": "workspace:*",
+    "@synara/i18n": "workspace:*",
     "@synara/shared": "workspace:*",
     "@tabler/icons-react": "^3.44.0",
     "@tanstack/react-pacer": "^0.19.4",
